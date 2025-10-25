@@ -1,5 +1,5 @@
-# Akbank Derin Öğrenme Bootcamp: Dogs vs. Cats Projesi
-Bu depo, Akbank Derin Öğrenme Bootcamp projesi için tasarlanmıştır. Projemin amacı, görüntü sınıflandırması, veri analizi ve derin öğrenme modellemesi konularında edindiğim bilgileri uygulamaktır. Projede temel derin öğrenme kavramları, veri ön işleme, model geliştirme ve performans değerlendirmesi, hiperparametre optimizasyonu ve heatmap görselleştirme gibi konulara odaklanılmıştır.
+# Portfolyo Projem - 1
+Bu projemin amacı, görüntü sınıflandırması, veri analizi ve derin öğrenme modellemesi konularında edindiğim bilgileri uygulamaktır. Projede temel derin öğrenme kavramları, veri ön işleme, model geliştirme ve performans değerlendirmesi, hiperparametre optimizasyonu ve heatmap görselleştirme gibi konulara odaklanılmıştır.
 
 # Giriş
 Bu projenin temelini oluşturan veri setini Kaggle üzerinden seçtim ve bu veri seti, kedi ve köpek görsellerinden oluşmaktadır. Bu veri seti, her biri kedi ve köpek görsellerinden oluşan yaklaşık 25.000 eğitim ve 12.500 test görseli içermektedir. Projenin teknik anlatımını ve tüm adımlarını, Kaggle notebook'umda, markdown formatındaki hücreler kullanarak detaylı bir şekilde anlattım.
@@ -39,7 +39,6 @@ Projenin tüm kodlarını ve detaylı teknik anlatımını içeren Kaggle notebo
 
 [[Kaggle Notebook'umun Linki](https://www.kaggle.com/code/yavasevval/dogs-vs-cats-proje-26-09-25)]
 
-Akbank Derin Öğrenme Bootcamp Projesi
 
 
 
